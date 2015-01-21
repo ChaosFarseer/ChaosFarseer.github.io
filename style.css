@@ -1,11 +1,17 @@
 /* Style sheet! */
 
-body {
-
+* {
+	padding: 0px;
+	margin: 0px;
 }
-#banner {
+
+#main-banner li {
 	border: blue;
 	padding: 5px;
 	margin: 2px;
-	background: green;
+	float: right;
+}
+
+#resume-header li {
+
 }
