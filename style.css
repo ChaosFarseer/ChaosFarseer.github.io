@@ -1,0 +1,11 @@
+/* Style sheet! */
+
+body {
+
+}
+#banner {
+	border: blue;
+	padding: 5px;
+	margin: 2px;
+	background: green;
+}
